@@ -11,8 +11,9 @@ In the proposed algorithm an efficient method for recognition of Indian vehicle 
 
 ![Output](Result.png)
 
-Refer "Project_Report.pdf" for more details regarding the implementation. 
+Refer "Project_Report.pdf" and "Recording.mp4" for more details regarding the implementation. 
 
+Give the path of folders "Dataset" and "Search_image" while executing Program.py
 ## References:
 * M M Shidore, and S P Narote. (2011) “Number Plate Recognition for Indian Vehicles” International Journal of Computer Science and  Network Security 11 (2): 143-146 
 * Sang Kyoon Kim, D. W. Kim and Hang Joon Kim. (1996) “A recognition of vehicle license plate using a genetic algorithm based segmentation,” Proceedings of 3rd IEEE International Conference on Image Processing, Lausanne. 
